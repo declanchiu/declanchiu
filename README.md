@@ -14,7 +14,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/PlayGuitar-CoderQ-Sub/figure-bed/main/uPic/guitar (1).png" />
+<img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <p style="display: flex; padding: 5px 0">
   <img  style="margin-right: 10px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
@@ -54,4 +54,3 @@
 </p>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=declanchiu&theme=aura&show_icons=true)
-
