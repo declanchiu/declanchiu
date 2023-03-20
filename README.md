@@ -37,7 +37,7 @@
 
 **Languages and Tools:**
 
-<div style="display: flex; justify-content: space-between;border: 1px solid red">
+<div style="display: flex; justify-content: space-between;">
   <div>
     <code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
     <code><img width="20%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
