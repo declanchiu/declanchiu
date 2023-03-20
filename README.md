@@ -23,6 +23,15 @@
   <span>My favorite sport is basketball;</span>
 </p>
 <p style="display: flex; padding: 5px 0">
+  <img style="margin-right: 10px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
+  <span>
+    I use daily
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code" />
+    <img src="https://img.shields.io/badge/-typescript-black?style=plastic&logo=typescript" />
+    <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" />
+  </span>
+</p>
+<p style="display: flex; padding: 5px 0">
   <img style="margin-right: 10px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="25" height="25" />
   <span>How to reach me: coderqzj@gmail.com;</span>
 </p>
@@ -33,14 +42,5 @@
 <p style="display: flex; padding: 5px 0">
   <img  style="margin-right: 10px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
   <span>I’m currently working on <code>Rust</code> And <code>Golang</code>;</span>
-</p>
-<p style="display: flex; padding: 5px 0">
-  <img style="margin-right: 10px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
-  <span>
-    I use daily
-    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code" />
-    <img src="https://img.shields.io/badge/-typescript-black?style=plastic&logo=typescript" />
-    <img src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git" />
-  </span>
 </p>
 
