@@ -38,24 +38,24 @@
 **Languages and Tools:**
 
 <div style="display: flex; justify-content: space-between;">
-  <div>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <div style="display: inline-block;">
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
     <br />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
     <br />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
     <br />
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+    <code><img width="20%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   </div>
 
-  <img style="width: 50%" src="https://github-readme-stats.vercel.app/api?username=declanchiu&theme=aura&show_icons=true" alt="Open Mailbox with Raised Flag"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=declanchiu&theme=aura&show_icons=true" alt="Open Mailbox with Raised Flag"/>
 </div>
 
