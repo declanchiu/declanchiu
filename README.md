@@ -41,6 +41,6 @@
 </p>
 <p style="display: flex; padding: 5px 0">
   <img  style="margin-right: 10px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="25" height="25" />
-  <span>I’m currently working on <code>Rust</code> And <code>Golang</code>;</span>
+  <span>I am learning <code>Rust</code> And <code>Golang</code>;</span>
 </p>
 
